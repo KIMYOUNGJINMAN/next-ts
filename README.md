@@ -12,19 +12,19 @@ npm install
 
 ## 개발 서버 기동
 
-개발 서버를 기동하고, http://localhost:3000/ 접속
-
 ```
 npm run dev
 ```
 
-## Storybook 기동
+http://localhost:3000/ 접속
 
-Storybook을 기동하고, http://localhost:6006/ 접속
+## Storybook 기동
 
 ```
 npm run storybook
 ```
+
+http://localhost:6006/ 접속
 
 ## 테스트 실행
 
