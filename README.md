@@ -16,15 +16,11 @@ npm install
 npm run dev
 ```
 
-http://localhost:3000/ 접속
-
 ## Storybook 기동
 
 ```
-npm run storybook
+npm run storybook /* port: 6006 */
 ```
-
-http://localhost:6006/ 접속
 
 ## 테스트 실행
 
