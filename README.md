@@ -1,7 +1,5 @@
 ## Use Case
-- C2C 커머스 어플리케이션
    ![유스케이스](https://github.com/KIMYOUNGJINMAN/next-ts/assets/149396100/83fa2a31-09fd-41a2-8932-6ceea9c80aed)
-     
         
     | 유스케이스 | 상세 | 관련 페이지 |
     | --- | --- | --- |
@@ -11,8 +9,8 @@
     | 판매자 프로파일 표시 | 판매자 프로파일 표시, 판매자 상품목록 표시 | 사용자 페이지 |
     | 로그인 | 시스템 로그인 | 로그인 페이지 |
         
-- **아키텍처**
-
+## 아키텍처
+![아키텍처](https://github.com/KIMYOUNGJINMAN/next-ts/assets/149396100/eb292c31-8bfa-41fd-ac07-1b0b7c69c0c1)
 
 ## 환경
 
